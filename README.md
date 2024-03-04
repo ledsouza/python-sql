@@ -1,6 +1,6 @@
 # Python: análise de dados com SQL
 
-Rápida descrição do objetivo de fazer esse projeto
+Desenvolver análises de um banco de dados utilizando SQL com Python
 
 | :books: Vitrine.Dev |     |
 | -------------  | --- |
